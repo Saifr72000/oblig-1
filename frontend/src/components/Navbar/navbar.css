@@ -1,0 +1,16 @@
+.navbar {
+  background-color: blue;
+  padding: 20px;
+}
+
+.navContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  color: #fff;
+}
+
+.navItem {
+  margin-right: 20px;
+}
